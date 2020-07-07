@@ -28,7 +28,11 @@ cd yiimp_install_scrypt/
 
 bash install.sh
 
-after install REBOOT
+after install
+
+must REBOOT vps
+
+and waiting screen -ls
 
 
 ______________________________________________________
