@@ -1,4 +1,4 @@
-For u16 & u18 New version pool 2020
+For u16 & u18 New version pool 2020 v0.2
 
 sudo apt-get update -y
 
@@ -19,12 +19,16 @@ paste this *************
 
 ______________________________________________________
 
-
-git clone https://github.com/xavatar/yiimp_install_scrypt.git
-
 sudo apt -y install git
 
+git clone https://github.com/allforminers/Yimpex_For_16and18.git yiimp_install_scrypt
+
+
 cd yiimp_install_scrypt/
+
+bash install.sh
+
+after install REBOOT
 
 
 ______________________________________________________
