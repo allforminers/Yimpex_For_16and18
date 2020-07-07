@@ -30,6 +30,10 @@ bash install.sh
 
 after install
 
+If you want change 'AdminPanel' to access Panel Admin : Edit this file : /var/web/yaamp/modules/site/SiteController.php
+
+Line 11 => change 'AdminPanel' and use the new address
+
 must REBOOT vps
 
 and waiting screen -ls
